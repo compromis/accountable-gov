@@ -77,7 +77,7 @@ export default {
   .category-header {
     display: flex;
     align-items: center;
-    margin: 5rem 0 2.5rem 0;
+    margin-top: 5rem;
 
     h3 {
       font-size: 30px;
@@ -86,6 +86,7 @@ export default {
       -webkit-text-fill-color: transparent;
       display: inline-block;
       margin-right: auto;
+      padding-bottom: 1rem;
     }
 
     .back-to-top {
