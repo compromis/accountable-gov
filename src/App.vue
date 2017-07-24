@@ -1,6 +1,7 @@
 <template>
-  <div id="app">
+  <div>
     <categories :categories="categories" />
+    <hr />
     <document :categories="categories" :document="document" />
   </div>
 </template>
