@@ -1,7 +1,10 @@
 <template>
   <div class="document">
     <div v-for="category in categories" :id="category.slug" class="category">
-      <h3>{{ category.name }}</h3>
+      <div class="category-header">
+        <h3>{{ category.name }}</h3>
+        <a href="#categories" class="back-to-top" v-smooth-scroll><span class="glyphicon glyphicon-chevron-up"></span> Torna adalt</a>
+      </div>
       <ul class="points">
         <li v-for="point in document" v-if="point.category == category.id" class="point">
           <div class="text">{{ point.text }}</div>
@@ -29,15 +32,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  h3 {
-    font-size: 30px;
-    padding: 50px 0 20px 0;
-    background: linear-gradient(270deg, #D4432F, #E28333);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-  }
-
   .points {
     li {
       display: flex;
@@ -78,5 +72,26 @@ export default {
 
   .status-pending {
     background: #F39B00;
+  }
+
+  .category-header {
+    display: flex;
+    align-items: center;
+    margin: 5rem 0 2.5rem 0;
+
+    h3 {
+      font-size: 30px;
+      background: linear-gradient(270deg, #D4432F, #E28333);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+      margin-right: auto;
+    }
+
+    .back-to-top {
+      float: right;
+      font-size: 1.75rem;
+      color: #888;
+    }
   }
 </style>

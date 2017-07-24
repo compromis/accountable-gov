@@ -1,8 +1,8 @@
 <template>
-  <div class="categories">
+  <div id="categories">
     <div class="row">
       <div v-for="category in categories" class="category col-sm-3">
-        <a :href="'#' + category.slug" v-smooth-scroll :class="'category-' + category.slug">
+        <a :href="'#' + category.slug" :class="'category-' + category.slug" v-smooth-scroll>
           {{ category.name }}
         </a>
       </div>
