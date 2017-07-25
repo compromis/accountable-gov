@@ -46,47 +46,110 @@ export default {
       font-family: 'Compromis', sans-serif;
       font-size: 2rem;
       color: #FFF;
+      border-width: 4px;
+      border-style: solid;
+      transition: 0.2s ease-in;
 
       &:hover {
-        opacity: 0.8;
+        background: #FFF;
       }
     }
   }
 
   .category-igualtat {
     background: $igualtat;
+    border-color: $igualtat;
+
+    &:hover {
+        color: $igualtat;
+    }
   }
   .category-educacio-cultura {
     background: $educacio;
+    border-color: $educacio;
+
+    &:hover {
+        color: $educacio;
+    }
   }
   .category-sanitat {
     background: $sanitat;
+    border-color: $sanitat;
+
+    &:hover {
+        color: $sanitat;
+    }
   }
   .category-economia {
     background: $economia;
+    border-color: $economia;
+
+    &:hover {
+        color: $economia;
+    }
   }
   .category-agricultura {
     background: $agricultura;
+    border-color: $agricultura;
+
+    &:hover {
+        color: $agricultura;
+    }
   }
   .category-transparencia {
     background: $transparencia;
+    border-color: $transparencia;
+
+    &:hover {
+        color: $transparencia;
+    }
   }
   .category-habitatge {
     background: $habitatge;
+    border-color: $habitatge;
+
+    &:hover {
+        color: $habitatge;
+    }
   }
   .category-medi-ambient {
     background: $medi-ambient;
+    border-color: $medi-ambient;
+
+    &:hover {
+        color: $medi-ambient;
+    }
   }
   .category-hisenda {
     background: $hisenda;
+    border-color: $hisenda;
+
+    &:hover {
+        color: $hisenda;
+    }
   }
   .category-admin-publica {
     background: $admin-publica;
+    border-color: $admin-publica;
+
+    &:hover {
+        color: $admin-publica;
+    }
   }
   .category-justicia {
     background: $justicia;
+    border-color: $justicia;
+
+    &:hover {
+        color: $justicia;
+    }
   }
   .category-comunicacio {
     background: $comunicacio;
+    border-color: $comunicacio;
+
+    &:hover {
+        color: $comunicacio;
+    }
   }
 </style>
