@@ -34,13 +34,14 @@ export default {
     border-bottom: 1px $gray solid;
 
     ul {
-      margin-bottom: -1px;
+      margin-bottom: -2px;
     }
 
     li {
       display: inline-block;
       margin-left: 0;
       margin-bottom: 0;
+      border: 1px transparent solid;
 
       a {
         display: block;
