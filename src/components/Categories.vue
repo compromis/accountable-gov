@@ -1,7 +1,7 @@
 <template>
   <div id="categories">
     <div class="row">
-      <div v-for="category in categories" class="category col-sm-3">
+      <div v-for="category in categories" class="category col-sm-4 col-lg-3">
         <a :href="'#' + category.slug" :class="'category-' + category.slug" v-smooth-scroll>
           {{ category.name }}
         </a>
@@ -150,6 +150,14 @@ export default {
 
     &:hover {
         color: $comunicacio;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .category {
+      a {
+        height: auto;
+      }
     }
   }
 </style>

@@ -39,6 +39,8 @@ export default {
 
     li {
       display: inline-block;
+      margin-left: 0;
+      margin-bottom: 0;
 
       a {
         display: block;

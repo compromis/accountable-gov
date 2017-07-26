@@ -94,6 +94,7 @@ export default {
     h3 {
       font-size: 30px;
       background: linear-gradient(270deg, #D4432F, #E28333);
+      line-height: 125%;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       display: inline-block;
@@ -102,9 +103,33 @@ export default {
     }
 
     .back-to-top {
-      float: right;
       font-size: 1.75rem;
       color: #888;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .category-header {
+      flex-direction: column;
+
+      h3 {
+        order: 2;
+        margin-top: 5rem;
+      }
+
+      .back-to-top {
+        order: 1;
+      }
+    }
+
+    .category:first-child {
+      h3 {
+        margin-top: 0;
+      }
+      
+      .back-to-top {
+        display: none;
+      }
     }
   }
 </style>
