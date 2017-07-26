@@ -3,16 +3,24 @@
     <div v-for="category in categories" :id="category.slug" class="category">
       <div class="category-header">
         <h3>{{ category.name }}</h3>
-        <a href="#categories" class="back-to-top" v-smooth-scroll><span class="glyphicon glyphicon-chevron-up"></span> Torna adalt</a>
+        <a href="#categories" class="back-to-top" v-smooth-scroll>
+          <span class="glyphicon glyphicon-chevron-up"></span>
+          <span v-if="language == 'cas'">Volver arriba</span>
+          <span v-else>Torna adalt</span>
+        </a>
       </div>
       <ul class="points">
         <li v-for="point in document" v-if="point.category == category.id" class="point">
           <div class="text">{{ point.text }}</div>
           <div v-if="point.status == 'DONE'" class="status status-done">
-            <span class="glyphicon glyphicon-ok"></span> Fet
+            <span class="glyphicon glyphicon-ok"></span>
+            <span v-if="language == 'cas'">Hecho</span>
+            <span v-else>Fet</span>
           </div>
           <div v-if="point.status == 'PENDING'" class="status status-pending">
-            <span class="glyphicon glyphicon-time"></span> En procés
+            <span class="glyphicon glyphicon-time"></span>
+            <span v-if="language == 'cas'">En proceso</span>
+            <span v-else>En procés</span>
           </div>
         </li>
       </ul>
@@ -27,6 +35,10 @@ export default {
   props: {
     document: Array,
     categories: Array,
+    language: {
+      type: String,
+      default: 'val'
+    }
   },
 }
 </script>
