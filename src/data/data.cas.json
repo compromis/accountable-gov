@@ -1,0 +1,984 @@
+{
+  "categories":
+    [
+      {
+        "id": 1,
+        "slug": "igualtat",
+        "name": "Igualdad y Servicios Sociales"
+      },
+      {
+        "id": 2,
+        "slug": "educacio-cultura",
+        "name": "Educación y Cultura"
+      },
+      {
+        "id": 3,
+        "slug": "sanitat",
+        "name": "Sanidad"
+      },
+      {
+        "id": 4,
+        "slug": "economia",
+        "name": "Economía y empleo"
+      },
+      {
+        "id": 5,
+        "slug": "agricultura",
+        "name": "Agricultura"
+      },
+      {
+        "id": 6,
+        "slug": "transparencia",
+        "name": "Transparencia"
+      },
+      {
+        "id": 7,
+        "slug": "habitatge",
+        "name": "Vivienda"
+      },
+      {
+        "id": 8,
+        "slug": "medi-ambient",
+        "name": "Medio Ambiente"
+      },
+      {
+        "id": 11,
+        "slug": "hisenda",
+        "name": "Hacienda"
+      },
+      {
+        "id": 12,
+        "slug": "admin-publica",
+        "name": "Administración Pública"
+      },
+      {
+        "id": 13,
+        "slug": "justicia",
+        "name": "Justicia"
+      },
+      {
+        "id": 14,
+        "slug": "comunicacio",
+        "name": "Comunicación"
+      }
+    ],
+
+  "document":
+    [
+      {
+        "category": 1,
+        "text": "Ley de Juventud, Adolescencia e Infancia",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Puesta en marcha las las Oficinas de Atención a Personas Migrantes",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Puesta en funcionamiento de la Comisión delegada del Consejo de Inclusión y Derechos Sociales",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Creación de una Comisión Valenciana de Tutelas",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Plan de emancipación y acompañamiento para personas jóvenes ex-tuteladas de la Generalitat",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Elaboración de itinerarios de inserción sociolaboral para colectivos vulnerables",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Tercer Plan Integral de Familias, Infancia y Adolescencia",
+        "status": "PENDING"
+      },
+      {
+        "category": 1,
+        "text": "Regreso de las personas a los centros que abandonaron por no haber podido hacer frente al copago confiscatorio",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Revisión de las bajadas de grado masivas que es llevaron a cabo por el antiguo gobierno",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Actualización de la Ley inclusiva de Servicios Sociales",
+        "status": "PENDING"
+      },
+      {
+        "category": 1,
+        "text": "Modificación del Decreto 18/2011, que reconoce prestaciones de dependencia",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Elaboración de una nueva Ley de Renta Garantizada de Ciudadanía",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Mejora de las prestaciones vinculadas al servicio de atención residencial",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Elaboración y firma de un Pacto valenciano para la atención integral, social y sanitaria a personas con trastorno mental grave",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Creación de una Red pública de atención social integral a las mujeres víctimas de violencia machista",
+        "status": "PENDING"
+      },
+      {
+        "category": 1,
+        "text": "Nuevo modelo de servicios sociales generales en la red básica municipal de servicios sociales",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Plan de choque para la agilización de la tramitación de expedientes de personas en situación de dependencia",
+        "status": "PENDING"
+      },
+      {
+        "category": 1,
+        "text": "Negociación del concierto social con el tercer sector",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Plan de infraestructuras para reducir la lista de espera en los centros de personas con diversidad funcional",
+        "status": "PENDING"
+      },
+      {
+        "category": 1,
+        "text": "Ley Integral de Transexualidad",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Plan de Intervención sobre Diversidad Sexual colegios e institutos",
+        "status": "DONE"
+      },
+      {
+        "category": 1,
+        "text": "Plan para el nuevo modelo en el acogimiento residencial de infancia y adolescencia en situación de desprotección",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Convocatoria de oposiciones a docentes. 1.055 plazas en 2016",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Decreto de Plurilingüismo",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Mapa de Enseñanzas Musicales",
+        "status": "PENDING"
+      },
+      {
+        "category": 2,
+        "text": "Proceso de participación para la redacción de la Ley valenciana de Educación",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Decreto de Admisión Escolar",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Convocatoria pública de plazas docentes 2017-2019",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Decreto de Inclusión Educativa",
+        "status": "PENDING"
+      },
+      {
+        "category": 2,
+        "text": "Modificación de la Ley de Patrimonio",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Nueva Ley del IVAM",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Ley de Mecenazgo",
+        "status": "PENDING"
+      },
+      {
+        "category": 2,
+        "text": "Plan valenciano de democratización cultural",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Mesa de la Cultura Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Plan de Inversiones en Patrimonio Cultural",
+        "status": "DONE"
+      },
+      {
+        "category": 2,
+        "text": "Decreto de Entidades Deportivas",
+        "status": "PENDING"
+      },
+      {
+        "category": 3,
+        "text": "Ley de Muerte Digna",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Decreto de Impacto en la Salud en todas las políticas",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Plan de Salud 2016-2020",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Elaboración del Mapa Sanitario CV",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Poyecto Campanar.  Presentación del proyecto para concurso de ideas en febrero",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Nuevo modelo de atención farmacéutica en el ámbito sociosanitario",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Convocatoria oposición de 3.608 plazas",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Dotación de enfermería escolar en todos los centros de educación especial",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Presentación de la Estrategia de Salud Mental de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Plan de dignificación de los infraestructuras sanitarias",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Concierto prestación farmacéutica",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Plan de prevención del suicidio y manejo de la conducta suicida",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Estrategia de salud sexual y reproductiva",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Observatorio de Salud de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 3,
+        "text": "Decreto de Selección de Personal y provisión de plazas de personal Estatutario.",
+        "status": "PENDING"
+      },
+      {
+        "category": 3,
+        "text": "Interoperabilidad de las recetas",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Plan Avalem Experiència",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Elaboración del programa JOOP - Joven Oportunidad, de acompañamiento para jóvenes desempleadas en garantía juvenil",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Plan de Energía Sostenible de la Comunidad Valenciana 2020",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Ley de Minería Sostenible",
+        "status": "PENDING"
+      },
+      {
+        "category": 4,
+        "text": "Decreto Áreas Industriales",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Plan de industrialización de la Comunidad Valenciana.",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Puesta en funcionamiento de la oficina de atracción de inversiones extranjeras",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Ley de Comercio Sostenible",
+        "status": "PENDING"
+      },
+      {
+        "category": 4,
+        "text": "Fomento del autoconsumo energético en la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Elaboración del mapa del emprendimiento valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Agenda Industria 4.0 - Comunidad Valenciana.",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Plan de promoción exterior",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Plan de acción para el fomento de la seguridad industrial en la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Escuelas taller para jóvenes en situación de vulnerabilidad en barrios de acción preferente",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Ley de la Agencia Valenciana de la Innovación",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Ley de Turismo, Ocio y Hospitalidad de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Puesta en marcha de un programa de aceleración empresarial destinado a los alumnos de los Centros de Turismo (CdT)",
+        "status": "DONE"
+      },
+      {
+        "category": 4,
+        "text": "Extensión de planes de gobernanza y dinamización turística.",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Ley de Pesca",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Ley de Ordenación y Modernización de Estructuras Agrarias",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Ley de Integración Ganadera",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Ley del Instituto Valenciano de Investigaciones Agrarias",
+        "status": "PENDING"
+      },
+      {
+        "category": 5,
+        "text": "Ley de la Caza Sostenible",
+        "status": "PENDING"
+      },
+      {
+        "category": 5,
+        "text": "Ley de Pesca Continental",
+        "status": "PENDING"
+      },
+      {
+        "category": 5,
+        "text": "Plan de fomento de la producción ecológica",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Elaboración del Plan director del Cooperativismo Agroalimentario",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Ayudas a agricultores y agricultoras y ganaderos y ganaderas",
+        "status": "DONE"
+      },
+      {
+        "category": 5,
+        "text": "Creación y puesta en marcha de una mesa de debate sobre la futura PAC",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Decreto del Código de Buen Gobierno",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Dotar de transparencia los procesos de adopción y decisiones en el acogimiento familiar",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Decreto que regula y desarrolla todo lo que la Ley 2/2015 establece en cuanto a la aplicación de la transparencia",
+        "status": "PENDING"
+      },
+      {
+        "category": 6,
+        "text": "Elaboración del proyecto de Ley Valenciana de Fomento de la Responsabilidad Social",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Ley de Participación y Apoyo al Asociacionismo",
+        "status": "PENDING"
+      },
+      {
+        "category": 6,
+        "text": "Decreto por el que se regula el Consell de Participación Ciudadana de la Comunidad Valenciana",
+        "status": "PENDING"
+      },
+      {
+        "category": 6,
+        "text": "Presentación del portal de transparencia.",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Elaboración de un proyecto de Ley de regulación de los grupos de interés y presión (lobbies).",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Programa Ayuntamientos y Transparencia",
+        "status": "PENDING"
+      },
+      {
+        "category": 6,
+        "text": "Sistema de alertas para la prevención de malas prácticas e irregularidades",
+        "status": "PENDING"
+      },
+      {
+        "category": 6,
+        "text": "Programa de acción para un desarrollo sostenible",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Programa Tribunal de las Aguas 2017-2019",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Elaboración de una nueva Ley de cooperación",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Decreto que regula los CEVEX",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Decreto que regula el Consell Valenciano de Cooperación al Desarrollo.",
+        "status": "DONE"
+      },
+      {
+        "category": 6,
+        "text": "Aprobación del IV Plan Director de Cooperación para el Desarrollo de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Aprobación del Patricova",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Inicio de la tramitación del Plan de Acción Territorial del Litoral",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Plan de Acción Territorial de la Huerta",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Estrategia Territorial de la Comunidad",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Inicio del proceso de desclasificación de suelo",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Convenio con el Ayuntamiento de Valencia para la modificación del PEPRI del Cabanyal-Canyamelar",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Orden para evitar la Pobreza Energética y ayudas de emergencia para el pago del alquiler",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Plan de Dignificación de la Vivienda Social",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Firma de la Declaración Institucional para la creación de una Autoridad Única del Transporte del Área de Valencia",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Aprobación de los estudios de planeamiento del Anillo Verde Metropolitano de Valencia",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Pago ayudas pendientes Resolución 501",
+        "status": "PENDING"
+      },
+      {
+        "category": 7,
+        "text": "Convocatoria de ayudas de Alquiler Social 2016",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Anteproyecto de Ley del Taxi",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Plan director Seguridad Vial",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Presentación Pats metropolitanos de Castelló y Alacant-Elx",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Plan Rehabilitación de viviendas",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Establecimiento de criterios sociales en el proceso de adjudicación de viviendas",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Reglamento de funcionamiento de la Autoridad del Transporte Metropolitano de Valencia",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Inicio de la tramitación del Plan Especial Zonal de Valencia (ZAL)",
+        "status": "DONE"
+      },
+      {
+        "category": 7,
+        "text": "Ley de modificación de la LOTUP",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Decreto de declaración de los Parajes Naturales Municipales",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Ley de Agentes Medioambientales",
+        "status": "PENDING"
+      },
+      {
+        "category": 8,
+        "text": "Decreto de desarrollo de la Ley de Patrimonio Arbóreo Monumental",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Ley de protección adicional del territorio y el Medio Ambiente",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Ley de Espacios Naturales Protegidos",
+        "status": "PENDING"
+      },
+      {
+        "category": 8,
+        "text": "Mejora en los procesos de abastecimiento, reutilización y ciclo integral del agua",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Plan de regulación del uso del fuego en el Medio natural",
+        "status": "DONE"
+      },
+      {
+        "category": 8,
+        "text": "Actualización Plan Integral de Residuos de la CV",
+        "status": "PENDING"
+      },
+      {
+        "category": 8,
+        "text": "Ley Forestal y Decreto del Plan de Acción Territorial Forestal (PATFOR)",
+        "status": "PENDING"
+      },
+      {
+        "category": 8,
+        "text": "Revisión y actualización de la Estrategia Valenciana de Cambio Climático 2016-2020-2030",
+        "status": "PENDING"
+      },
+      {
+        "category": 8,
+        "text": "Promoción de medidas colaborativas en la prevención de incendios forestales",
+        "status": "PENDING"
+      },
+      {
+        "category": 11,
+        "text": "Planificación Presupuestos 2017. Iniciar sobre los meses de febrero-marzo",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Consolidación del Instituto Valenciano de Finanzas como banca pública valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Puesta en marcha del Instituto Valenciano de Administración Tributaria",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Reforma del Sistema Tributario Valenciano",
+        "status": "PENDING"
+      },
+      {
+        "category": 11,
+        "text": "Normativa reguladora de los fondos de Caja Fija",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Plan de Choque contra el Fraude en el Impuesto sobre el Patrimonio",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Elaboración de la Orden de Comprobación de Valores en los transmisiones patrimoniales",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Propuesta de un Nuevo Modelo de Financiación autonómica y negociación en el seno del CPFF.",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Elaboración de una nueva Ley de Hacienda Pública",
+        "status": "PENDING"
+      },
+      {
+        "category": 11,
+        "text": "Campaña de inspección de liquidaciones del impuesto de patrimonio relativos a los ejercicios 2013 y 2014.",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Reestructuración del Instituto Valenciano de Finanzas",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Creación de una Comisión de optimización de los fondos y programas europeos",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Culminación del proceso de reestructuración de la SGR",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Creación de una base de consultas tributarias.",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Aprobación del Plan de Acción de Financiación Europea",
+        "status": "DONE"
+      },
+      {
+        "category": 11,
+        "text": "Actualización del inventario de bienes patrimoniales procedentes de la participación en el accionariado de empresas",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Reforma legal del Sector Público Empresarial y Fundacional",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Plan de Implantación de la Administración Electrónica",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Diseño de un nuevo modelo de sector público instrumental",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Implantación de la firma electrónica en la Generalitat",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Plan de implantación de la banda ancha de alta velocidad para minimizar la brecha digital en el seno de la CC",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Apertura del proceso de diálogo para elaborar la nueva Ley valenciana de la Función Pública",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Anteproyecto de la nueva Ley de ordenación y gestión de la Función Pública valenciana",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Presentación del Plan estratégico de recursos humanos para la Generalitat",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Decreto de cláusulas sociales en la contratación pública",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Ley de creación de la Agencia de Seguridad y Respuesta a las Emergencias",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Ley de Coordinación de Policías Locales",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Ley del Régimen de las mancomunidades de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Decreto de Coordinación de diputaciones respecto a la Política Turística",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Decreto de Coordinación de diputaciones respecto de la Política en materia de Deportes y Patrocinios Deportivos.",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Proyecto de Ley de reforma de la Ley de Régimen Local Valenciana de 2010.",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Decreto de creación del Fondo autonómico de Cooperación Municipal",
+        "status": "DONE"
+      },
+      {
+        "category": 12,
+        "text": "Decreto del reglamento del voluntariado de protección civil y creación del registro de los servicios de Protección Civil",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Reestructuración de la Fundación Comunidad Valenciana Región Europea y del Consejo Valenciano de Asuntos Europeos.",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Aprobación Reglamento del Centro de Coordinación de Emergencias de la Generalitat",
+        "status": "PENDING"
+      },
+      {
+        "category": 12,
+        "text": "Elaboración del Decreto para constituir una bolsa de trabajo para la provisión con carácter interino de puestos reservados a funcionarios y funcionarias de la administración local",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Decreto para la creación de una red pública de Oficinas de Atención a las Víctimas del Delito",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Anteproyecto de Ley de la Memoria Democrática y para la Convivencia de la Comunidad Valenciana",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Reformar y mejorar el modelo valenciano de justicia gratuita.",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Nueva Ley Electoral Valenciana",
+        "status": "PENDING"
+      },
+      {
+        "category": 13,
+        "text": "Puesta en marcha de los trabajos para elaborar un Plan estratégico de Recursos Humanos a 4 años en la GV",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Anteproyecto de Ley de Mediación de la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Reglamento de Justicia Gratuita",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Elaboración y presentación de un plan de infraestructuras judiciales para la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Implantación de la Fase I de la Nueva Oficina Judicial",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Implantación de la Nueva Oficina Fiscal",
+        "status": "PENDING"
+      },
+      {
+        "category": 13,
+        "text": "Nueva plataforma informática que permite la presentación telemática de escritos",
+        "status": "DONE"
+      },
+      {
+        "category": 13,
+        "text": "Creación de gabinetes psicosociales comarcales que dan apoyo a los Juzgados de Familia",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Modificación Decreto 212/2009 que regula el Registro de Prestadores de Servicios de Comunicación Audiovisual de la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Propuesta de Acuerdo del Consell para solicitar al Gobierno la gestión de un 2º múltiplex de TDT de ámbito autonómico en la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Modificación del Decreto del Alto Consell Consultivo de Radiodifusión, Televisión y otros Medios de Comunicación",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Resolución para la adjudicación de los licencias de TDT",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Decreto por el que se regula el régimen jurídico para la Prestación de los Servicios de Comunicación Audiovisual sin Ánimo de Lucro en la CV",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Puesta en marcha del servicio público de radiodifusión y televisión de titularidad de la Generalitat",
+        "status": "DONE"
+      },
+      {
+        "category": 14,
+        "text": "Proyecto de Ley del Consejo Audiovisual de la CV",
+        "status": "PENDING"
+      },
+      {
+        "category": 14,
+        "text": "Convocatoria de un nuevo concurso para la adjudicación de 31 licencias de radiodifusión sonora en FM en la CV",
+        "status": "PENDING"
+      }
+    ]
+}

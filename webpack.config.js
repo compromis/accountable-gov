@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
-    publicPath: (process.env.NODE_ENV === 'production') '/wp-content/themes/Compromis/campaigns/accountable-gov/' ? : '/dist/',
+    publicPath: (process.env.NODE_ENV === 'production') ? '/wp-content/themes/Compromis/campaigns/accountable-gov/' : '/dist/',
     filename: 'build.js'
   },
   module: {
