@@ -652,11 +652,6 @@
       },
       {
         "category": 8,
-        "text": "Ley de Agentes Medioambientales",
-        "status": "PENDING"
-      },
-      {
-        "category": 8,
         "text": "Decreto de desarrollo de la Ley de Patrimonio Arbóreo Monumental",
         "status": "DONE"
       },
@@ -687,8 +682,8 @@
       },
       {
         "category": 8,
-        "text": "Ley Forestal y Decreto del Plan de Acción Territorial Forestal (PATFOR)",
-        "status": "PENDING"
+        "text": "Ley Forestal",
+        "status": "DONE"
       },
       {
         "category": 8,
