@@ -1,6 +1,6 @@
 <template>
   <div class="document">
-    <div v-for="category in categories" :id="category.slug" class="category">
+    <div v-for="category in categories" :key="category.id" :id="category.slug" class="category">
       <div class="category-header">
         <h3>{{ category.name }}</h3>
         <a href="#categories" class="back-to-top" v-smooth-scroll>
@@ -10,7 +10,7 @@
         </a>
       </div>
       <ul class="points">
-        <li v-for="point in document" v-if="point.category == category.id" class="point">
+        <li v-for="point in document" :key="point.text" v-if="point.category == category.id" class="point">
           <div class="text">{{ point.text }}</div>
           <div v-if="point.status == 'DONE'" class="status status-done">
             <span class="glyphicon glyphicon-ok"></span>
@@ -126,7 +126,7 @@ export default {
       h3 {
         margin-top: 0;
       }
-      
+
       .back-to-top {
         display: none;
       }
