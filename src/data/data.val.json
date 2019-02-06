@@ -136,7 +136,7 @@
     {
      "category": 1,
      "text": "Creació d’una Xarxa pública d’atenció social integral a les dones víctimes de violència masclista",
-     "status": "PENDING"
+     "status": "DONE"
     },
     {
      "category": 1,
@@ -151,6 +151,11 @@
     {
      "category": 1,
      "text": "Negociació del concert social amb el tercer sector",
+     "status": "DONE"
+    },
+    {
+     "category": 1,
+     "text": "Llei per a la Igualtat LGTBI",
      "status": "DONE"
     },
     {
